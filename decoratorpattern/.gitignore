@@ -1,0 +1,9 @@
+/bin/
+/
+build/
+/nbproject/
+.settings
+.metadata/
+
+build.xml
+manifest.mf
